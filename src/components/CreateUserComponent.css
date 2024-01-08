@@ -1,0 +1,18 @@
+.btn-success {
+    background-color: #ff9ece;
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: #ff73a8;
+}
+
+.btn-danger {
+    background-color: #ff73a8;
+    color: white;
+    margin-right: 20px;
+}
+
+.btn-danger:hover {
+    background-color: #ff588f;
+}
